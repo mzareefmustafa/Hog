@@ -1,2 +1,1 @@
-# Note for viewers...
-The .py and .ok files are the primary files I've worked in.
+
